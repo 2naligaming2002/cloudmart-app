@@ -25,4 +25,4 @@ jobs:
 
       - name: Deploy to ACI
         run: |
-          echo "Deployment step simulated (Azure login skipped in lab)"
+          echo "Deployment step simulated (Azure login skipped)"
