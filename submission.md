@@ -31,40 +31,30 @@ Resources created:
 ### Screenshot 6: 
 (https://github.com/user-attachments/assets/06889cd3-8aa5-47e4-a263-b2ee1b8c6a46)
 
-
 ### Screenshot 7: 
 (https://github.com/user-attachments/assets/dbb6411e-082b-48a3-8131-d69b01b7482c)
 
-
 ### Screenshot 8: 
 (https://github.com/user-attachments/assets/cb0cb394-bfea-4558-a647-2ef06e1a51bc)
-
 ### Screenshot 9: 
 (https://github.com/user-attachments/assets/ec41a3b3-f489-4c25-809e-7c9b0eb09fc4)
 
 ### Screenshot 10: 
 (https://github.com/user-attachments/assets/ca444f5b-c953-4b71-b960-bee3fc177af3")
 
-
 ### Screenshot 11: 
 (https://github.com/user-attachments/assets/3e12fbfc-85d3-4b83-86e7-b8d84718a859)
-
 
 ### Screenshot 12: 
 (https://github.com/user-attachments/assets/77a72fea-42a3-4f76-b29f-5b8d44a2f46a)
 
-
 ### Screenshot 13: 
 (https://github.com/user-attachments/assets/3c083901-3afa-4859-a468-bc9824b3363b)
 
-
 ### Screenshot 14: 
 (https://github.com/user-attachments/assets/34dbd9cc-6b9c-43e3-a7fd-1adffb8c185c)
-
-
 ### Screenshot 15: 
 (https://github.com/user-attachments/assets/673816f1-0cdc-4345-bec3-429a1039791e)
-
 
 ### Screenshot 16: 
 (https://github.com/user-attachments/assets/566723c1-4d12-4763-8913-b41216c8077d)
@@ -72,59 +62,35 @@ Resources created:
 ### Screenshot 17: 
 (https://github.com/user-attachments/assets/748e7ff3-a255-4f21-8ca3-804c56b95751)
 
-
 ### Screenshot 18: 
 (https://github.com/user-attachments/assets/c5b9177e-79db-45d6-a43c-f47af2615e31)
 
-
 ### Screenshot 19: 
 (https://github.com/user-attachments/assets/4ccc5c9a-496b-4fa9-8840-f6918f8d4001)
-
-
 
 ### Screenshot 20: 
 
 (https://github.com/user-attachments/assets/a7cb077c-596c-4a5b-9275-8dc0a3f9daeb)
 
-
 ### Screenshot 21: 
-
 (https://github.com/user-attachments/assets/7d13e302-a526-4879-beab-749e02839827)
-
-
 ### Screenshot 22: 
-
 (https://github.com/user-attachments/assets/0a793c24-9af2-4496-8abf-f9549bd5323b")
-
-
 ### Screenshot 23: 
-
 (https://github.com/user-attachments/assets/48dd838a-6006-424d-afb2-4dc21d7fcaeb)
 
-
 ### Screenshot 24: 
-
 (https://github.com/user-attachments/assets/2a399a8c-de54-4b62-bf9b-68b277063599")
 
-
 ### Screenshot 25: 
-
 (https://github.com/user-attachments/assets/060735c3-f744-4485-8954-d55501bb7b94)
-
 ### Screenshot 26: 
-
 (https://github.com/user-attachments/assets/6eb5fad7-0faa-4269-9f8b-156a0fe6d747)
-
 ### Screenshot 27:
-
 (https://github.com/user-attachments/assets/6a73d899-34f2-449e-bdd4-7fd81688aa38)
-
 ### Screenshot 28:
 (https://github.com/user-attachments/assets/6489027a-84ac-41c5-ae69-7bd386306460")
-
 ### Screenshot 29:
-
-
 (https://github.com/user-attachments/assets/3f08ddfc-ab03-4ec0-b9e4-88bf01557f8c)
 
 Reflection on Milestone 3
