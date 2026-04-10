@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CloudMart</title>
+</head>
+<body>
+
+    <h1>CloudMart</h1>
+
+    <h2>Products</h2>
+    <div id="products"></div>
+
+    <script>
+        fetch('/api/v1/products')
+        .then(response => response.json())
+        .then(data => {
+            let output = "";
+
+            data.forEach(product => {
+                output += `
+                    <div>
+                        <h3>${product.name}</h3>
+                        <p>Category: ${product.category}</p>
+                        <p>Price: $${product.price}</p>
+                        <hr>
+                    </div>
+                `;
+            });
+
+            document.getElementById("products").innerHTML = output;
+        })
+        .catch(error => {
+            console.error("Error:", error);
+        });
+    </script>
+
+</body>
+</html>
